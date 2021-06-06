@@ -1,4 +1,4 @@
 <?php
-   echo "Test First";
+   echo "Test First"
    phpinfo()
 ?>
